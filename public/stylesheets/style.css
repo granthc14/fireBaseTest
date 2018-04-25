@@ -1,8 +1,6 @@
 .jumbotron { 
   background-color: #f4511e; /* Orange */
   color: #ffffff;
+  border-radius: 0px; 
 }
 
-body{
-  padding-top: 50px;
-}
